@@ -21,6 +21,7 @@ Because of the nature and purpose of this game, it is controlled and played in a
 
 ######Install the Reactive Blocks Eclipse plugin
 - Open the "Install new software" window
+
 ![New software](readme/new_software.png)
 - Type in *http://updates.bitreactive.com*
 - Select Reactive Blocks and click "Next"
