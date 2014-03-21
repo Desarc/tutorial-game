@@ -9,6 +9,7 @@ Because of the nature and purpose of this game, it is controlled and played in a
 
 ##Requirements
 - Eclipse Kepler 4.3
+- Java SE Development Kit 7 or greater
 - A [Reactive Blocks license](http://www.bitreactive.com/)
 
 
@@ -17,8 +18,43 @@ Because of the nature and purpose of this game, it is controlled and played in a
 ######[Install Eclipse Kepler 4.3](http://www.eclipse.org/downloads/)
 ######[Sign up for Reactive Blocks](http://www.bitreactive.com/)
 ######Install the Reactive Blocks Eclipse plugin
-- Open the "Install new software" window ![Install](readme/new_software.png)
+- Open the "Install new software" window
+![New software](readme/new_software.png)
 - Type in *http://updates.bitreactive.com*
-- Select Reactive Blocks ![Install](readme/install_reactive_blocks.png)
+- Select Reactive Blocks and click "Next"
+![Install](readme/install_reactive_blocks.png)
+- Accept the license agreement and finish
+- Restart Eclipse when the installation has finished
+######Open the Reactive Blocks perspective
+- Select "Window", "Open Perspective" and "Reactive Blocks"
+![Perspective](readme/other_perspective.png)
+- If Reactive Blocks is not listed, select "Other". It should be in this extended list.
+![Perspectives](readme/perspectives.png)
+######Clone this repository into your workspace
+######Import the *no.ntnu.oyvinric.tutorialgame.release* project into your workspace
+- Select "File" and "Import"
+- Under "General", select "Existing Projects into Workspace"
+![Import](readme/import.png)
+- Click "Browse" with the "Select root directory" option, and find the *no.ntnu.oyvinric.tutorialgame.release* folder.
+- Click "Finish". The project should now appear both in *Package Explorer* and under *Blocks* -> *Projects*
+
+##Getting started
+You should start by taking a look at the introduction for level 1. In the project view under *Blocks*, you should see a building block called *Level1_Introduction*. This is a Reactive Blocks application that simply displays the introduction window.
+
+In order to see the window, you need to *build* and *run* the block. This process also needs to be repeated for every level you complete, and every new introduction.
+
+######Build
+- Right click the *Level1_Introduction* building block, and choose "Select Build Target Platform" under "Build"
+- You may have to sign in to Reactive Blocks at this point. If you haven't already registered, you can do it now. When you have signed in, you need to right click the block and choose "Select Build Target Platform" again.
+- Choose *Java Standard Edition - J2SE*
+- Click OK without changing any parameters in the next window
+
+When building has finished, you should see a new project under *Package Explorer* called *no.ntnu.oyvinric.tutorialgame.release.level1_introduction.exe*. This is a project with executable code.
+
+######Run
+- Right click the new project and select "Run As" and "Java Application"
+- Find the type called *Start - no.ntnu.oyvinric.tutorialgame.release.level1_introduction* and click "Next"
+
+A window should pop up, with various information elements and buttons. Watch the slideshow to learn how to play the game!
 
 
