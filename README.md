@@ -16,7 +16,9 @@ Because of the nature and purpose of this game, it is controlled and played in a
 ##Setting up
 
 ######[Install Eclipse Kepler 4.3](http://www.eclipse.org/downloads/)
+
 ######[Sign up for Reactive Blocks](http://www.bitreactive.com/)
+
 ######Install the Reactive Blocks Eclipse plugin
 - Open the "Install new software" window
 ![New software](readme/new_software.png)
@@ -25,12 +27,15 @@ Because of the nature and purpose of this game, it is controlled and played in a
 ![Install](readme/install_reactive_blocks.png)
 - Accept the license agreement and finish
 - Restart Eclipse when the installation has finished
+
 ######Open the Reactive Blocks perspective
 - Select "Window", "Open Perspective" and "Reactive Blocks"
 ![Perspective](readme/other_perspective.png)
 - If Reactive Blocks is not listed, select "Other". It should be in this extended list.
 ![Perspectives](readme/perspectives.png)
+
 ######Clone this repository into your workspace
+
 ######Import the *no.ntnu.oyvinric.tutorialgame.release* project into your workspace
 - Select "File" and "Import"
 - Under "General", select "Existing Projects into Workspace"
