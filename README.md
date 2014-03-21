@@ -36,6 +36,7 @@ Because of the nature and purpose of this game, it is controlled and played in a
 ![Perspectives](readme/perspectives.png)
 
 ######Clone this repository into your workspace
+Using your favourite Git front-end (Egit, Git Shell, Git for Windows etc...), clone the whole repository.
 
 ######Import the *no.ntnu.oyvinric.tutorialgame.release* project into your workspace
 - Select "File" and "Import"
@@ -61,6 +62,7 @@ When building has finished, you should see a new project under *Package Explorer
 ######Run
 - Right click the new project and select "Run As" and "Java Application"
 - Find the type called *Start - no.ntnu.oyvinric.tutorialgame.release.level1_introduction* and click "Next"
+![Run](readme/run.png)
 
 A window should pop up, with various information elements and buttons. Watch the slideshow to learn how to play the game!
 
