@@ -42,7 +42,7 @@ Because of the nature and purpose of this game, it is controlled and played in a
 - Under "General", select "Existing Projects into Workspace"
 ![Import](readme/import.png)
 - Click "Browse" with the "Select root directory" option, and find the *no.ntnu.oyvinric.tutorialgame.release* folder.
-- Click "Finish". The project should now appear both in *Package Explorer* and under *Blocks* -> *Projects*
+- Click "Finish". The project should now appear both in *Package Explorer* and under *Blocks* => *Projects*
 
 ##Getting started
 You should start by taking a look at the introduction for level 1. In the project view under *Blocks*, you should see a building block called *Level1_Introduction*. This is a Reactive Blocks application that simply displays the introduction window.
@@ -53,6 +53,7 @@ In order to see the window, you need to *build* and *run* the block. This proces
 - Right click the *Level1_Introduction* building block, and choose "Select Build Target Platform" under "Build"
 - You may have to sign in to Reactive Blocks at this point. If you haven't already registered, you can do it now. When you have signed in, you need to right click the block and choose "Select Build Target Platform" again.
 - Choose *Java Standard Edition - J2SE*
+![Build](readme/build.png)
 - Click OK without changing any parameters in the next window
 
 When building has finished, you should see a new project under *Package Explorer* called *no.ntnu.oyvinric.tutorialgame.release.level1_introduction.exe*. This is a project with executable code.
