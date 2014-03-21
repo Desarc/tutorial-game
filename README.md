@@ -16,6 +16,12 @@ Because of the nature and purpose of this game, it is controlled and played in a
 ##Setting up
 
 ######[Install Eclipse Kepler 4.3](http://www.eclipse.org/downloads/)
+Make sure you have at least Java SE Development Kit 7 installed. To make Eclipse run with this JRE as default:
+- Select "Window" => "Preferences"
+- Under *Java*, select *Installed JREs*
+- See if *jre7* is listed. If not, add it as a *Standard VM* (JRE home is the directory where it is installed).
+- Check the box next to *jre7* to make it the default JRE.
+![JRE](readme/installed_jres.png)
 
 ######[Sign up for Reactive Blocks](http://www.bitreactive.com/)
 
