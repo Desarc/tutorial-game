@@ -1,0 +1,21 @@
+Game concept and implementation: Øyvin Richardsen
+
+Java Frameworks:
+ - libGDX: http://libgdx.badlogicgames.com/
+ - Reactive Blocks: http://www.bitreactive.com/
+ 
+ 
+Art and graphics:
+ - OpenClipArt, "lemmling": https://openclipart.org/user-detail/lemmling
+ - PlanetCute, Daniel Cook: http://www.lostgarden.com/2007/05/dancs-miraculously-flexible-game.html
+ - Last Guardian, Philipp Lenssen: http://blogoscoped.com/archive/2006-08-08-n51.html
+ - Platformer Art, Kenney Vleugels: http://www.kenney.nl, partially modified
+ - http://game-icons.net/
+ 
+ - Bombardier font, Apostrophic Labs: http://www.1001freefonts.com/bombardier.font
+ - ProFontWindows font, Carl Osterwald: http://www.fontspace.com/carl-osterwald/profontwindows
+ - Data Control font, Vic Fieger: http://www.1001freefonts.com/data_control.font
+ - Karmatic Arcade font, Vic Fieger: http://www.1001freefonts.com/karmatic_arcade.font
+ - A Song for Jennifer font, Brittney Murphy: http://www.1001freefonts.com/a_song_for_jennifer.font
+ - Press Start 2P font, "codeman38": http://www.fontspace.com/codeman38/press-start-2p
+ - Agent Orange font, "Pizzadude": http://www.1001freefonts.com/agent_orange.font
