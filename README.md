@@ -9,14 +9,14 @@ Because of the nature and purpose of this game, it is controlled and played in a
 
 ##Requirements
 - Eclipse Kepler 4.3
-- Java SE Development Kit 7 or greater
+- Java SE Development Kit 7 (Java 8 may not work correctly)
 - A [Reactive Blocks license](http://www.bitreactive.com/)
 
 
 ##Setting up
 
 ######[Install Eclipse Kepler 4.3](http://www.eclipse.org/downloads/)
-Make sure you have Java SE Development Kit 7 installed (Java 8 may not work correctly). To make Eclipse run with this JRE as default:
+Make sure you have Java SE Development Kit 7 installed. To make Eclipse run with this JRE as default:
 - Select "Window" and "Preferences" from the top menu (may be different for Mac users)
 - Under *Java*, select *Installed JREs*
 - See if *jre7* is listed. If not, add it as a *Standard VM* (JRE home is the directory where it is installed).
