@@ -84,6 +84,6 @@
   <arctis:system xmi:id="_n4ESI690EeOxBZZxBRuw1g" base_Collaboration="_n4Dqoa90EeOxBZZxBRuw1g"/>
   <arctis:system xmi:id="_n4ESJK90EeOxBZZxBRuw1g" base_Activity="_n4Dqo690EeOxBZZxBRuw1g"/>
   <graphics:Shape xmi:id="_n4ESJa90EeOxBZZxBRuw1g" x="250" y="220" width="120" height="70" base_Element="_n4Dqoq90EeOxBZZxBRuw1g"/>
-  <graphics:Shape xmi:id="_n4ESJq90EeOxBZZxBRuw1g" x="180" y="55" width="1009" height="55" base_Element="_n4Dqo690EeOxBZZxBRuw1g"/>
-  <graphics:Shape xmi:id="_n4ESJ690EeOxBZZxBRuw1g" x="180" y="108" width="1009" height="883" base_Element="_n4ERtq90EeOxBZZxBRuw1g"/>
+  <graphics:Shape xmi:id="_n4ESJq90EeOxBZZxBRuw1g" x="180" y="55" width="973" height="55" base_Element="_n4Dqo690EeOxBZZxBRuw1g"/>
+  <graphics:Shape xmi:id="_n4ESJ690EeOxBZZxBRuw1g" x="180" y="108" width="973" height="487" base_Element="_n4ERtq90EeOxBZZxBRuw1g"/>
 </xmi:XMI>
